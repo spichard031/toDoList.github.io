@@ -1,0 +1,53 @@
+/* Estilos para el botón de agregar */
+.boton-agregar {
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+/* Cambiar estilo al pasar el cursor sobre el botón de agregar */
+.boton-agregar:hover {
+    background-color: #2980b9;
+}
+
+/* Estilos para el botón de eliminar */
+.boton-eliminar {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+/* Cambiar estilo al pasar el cursor sobre el botón de eliminar */
+.boton-eliminar:hover {
+    background-color: #c0392b;
+}
+
+/* Estilos para el campo de entrada de texto */
+#texto {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+/* Lista no ordenada */
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Estilo para los elementos de lista */
+li {
+    margin-bottom: 10px;
+}
